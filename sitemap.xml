@@ -2,28 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.tecur.xyz/2018/02/03/Casio-fx-9750GII-Update/</loc>
+    <loc>https://blog.tecur.xyz/2018/02/02/Casio-fx-9750GII-Update/</loc>
     
     <lastmod>2021-03-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.tecur.xyz/tags/index.html</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tecur.xyz/categories/index.html</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.tecur.xyz/about/index.html</loc>
+    <loc>https://blog.tecur.xyz/Projekte/index.html</loc>
     
     <lastmod>2021-03-01</lastmod>
     
@@ -37,7 +23,21 @@
   </url>
   
   <url>
-    <loc>https://blog.tecur.xyz/Projekte/index.html</loc>
+    <loc>https://blog.tecur.xyz/about/index.html</loc>
+    
+    <lastmod>2021-03-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tecur.xyz/categories/index.html</loc>
+    
+    <lastmod>2021-03-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.tecur.xyz/tags/index.html</loc>
     
     <lastmod>2021-03-01</lastmod>
     
